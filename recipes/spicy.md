@@ -1,0 +1,2 @@
+# Spicy
+A spicy recipe
